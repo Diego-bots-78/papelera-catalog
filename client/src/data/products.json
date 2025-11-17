@@ -1,0 +1,4436 @@
+{
+  "productos": [
+    {
+      "id": "producto_0",
+      "nombre": "Arranque  A/D 15x20/25  STANDART",
+      "tipo_venta": "0.300 gr.",
+      "precio": 1850,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_1",
+      "nombre": "Arranque A/D  15x20/25  CRISTAL",
+      "tipo_venta": "0.300 gr.",
+      "precio": 2690,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_2",
+      "nombre": "Arranque A/D  20x25  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_3",
+      "nombre": "Arranque A/D  20x30  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_4",
+      "nombre": "Arranque A/D  25x35  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_5",
+      "nombre": "Arranque A/D  30x40  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_6",
+      "nombre": "Arranque A/D  30x60  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_7",
+      "nombre": "Arranque A/D  35x45  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_8",
+      "nombre": "Arranque A/D  40x50  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_9",
+      "nombre": "Arranque A/D  40x60  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_10",
+      "nombre": "Arranque A/D  45x60  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_11",
+      "nombre": "Arranque A/D  50x70  ESPECIAL",
+      "tipo_venta": "GRANDE",
+      "precio": 5200,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_12",
+      "nombre": "🟤",
+      "tipo_venta": "Bolsas",
+      "precio": 1345.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_13",
+      "nombre": "Camisetas A/D 30x40",
+      "tipo_venta": "",
+      "precio": 971.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_14",
+      "nombre": "Camisetas A/D 40x50  Amarilla ( L )",
+      "tipo_venta": "",
+      "precio": 1181.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_15",
+      "nombre": "(Pack",
+      "tipo_venta": "×100",
+      "precio": 1719.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_16",
+      "nombre": "Camisetas A/D 40x50 DOBLE USO",
+      "tipo_venta": "",
+      "precio": 1599.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_17",
+      "nombre": "Camisetas A/D 45x60 ( Refor )",
+      "tipo_venta": "",
+      "precio": 2264.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_18",
+      "nombre": "(Pack",
+      "tipo_venta": "×100",
+      "precio": 3019.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_19",
+      "nombre": "Camisetas A/D 50x60",
+      "tipo_venta": "",
+      "precio": 2519.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_20",
+      "nombre": "20×28",
+      "tipo_venta": "—",
+      "precio": 3139.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_21",
+      "nombre": "Camisetas A/D 60x80",
+      "tipo_venta": "",
+      "precio": 5561.0,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_22",
+      "nombre": "Camiseta a/d 45x55 CIUDAD VERDE",
+      "tipo_venta": "",
+      "precio": 4900,
+      "categoria": "BOBINAS DE ARRANQUE",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE ARRANQUE"
+    },
+    {
+      "id": "producto_23",
+      "nombre": "Lámina A/D 13x26 ( Hamburguesa)",
+      "tipo_venta": "1 kg.",
+      "precio": 5434.0,
+      "categoria": "LÁMINA",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría LÁMINA"
+    },
+    {
+      "id": "producto_24",
+      "nombre": "Lámina A/D 20x25",
+      "tipo_venta": "1 kg.",
+      "precio": 4500,
+      "categoria": "LÁMINA",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría LÁMINA"
+    },
+    {
+      "id": "producto_25",
+      "nombre": "Lámina A/D 25x37",
+      "tipo_venta": "1 kg.",
+      "precio": 4500,
+      "categoria": "LÁMINA",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría LÁMINA"
+    },
+    {
+      "id": "producto_26",
+      "nombre": "Lámina A/D 37x50",
+      "tipo_venta": "1 kg.",
+      "precio": 4500,
+      "categoria": "LÁMINA",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría LÁMINA"
+    },
+    {
+      "id": "producto_27",
+      "nombre": "Lámina A/D 50x75",
+      "tipo_venta": "1 kg.",
+      "precio": 4500,
+      "categoria": "LÁMINA",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría LÁMINA"
+    },
+    {
+      "id": "producto_28",
+      "nombre": "Consorcio  B/D 60x90",
+      "tipo_venta": "10 Unidades",
+      "precio": 527.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_29",
+      "nombre": "Consorcio B/D 60X90 EN ROLLO",
+      "tipo_venta": "10 Unidades",
+      "precio": 907.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_30",
+      "nombre": "Consorcio B/D 80x110",
+      "tipo_venta": "10 Unidades",
+      "precio": 1173.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_31",
+      "nombre": "Consorcio B/D 80X110 EN ROLLO",
+      "tipo_venta": "10 Unidades",
+      "precio": 2479.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_32",
+      "nombre": "Consorcio B/D 90x120",
+      "tipo_venta": "10 Unidades",
+      "precio": 1644.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_33",
+      "nombre": "Consorcio 80x110 reforzado",
+      "tipo_venta": "50 Unidades",
+      "precio": 7056.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_34",
+      "nombre": "Consorcio 80x100 ref. Tranparente",
+      "tipo_venta": "50 Unidades",
+      "precio": 8745.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_35",
+      "nombre": "Consorcio 80x100 ref. Verde",
+      "tipo_venta": "50 Unidades",
+      "precio": 8745.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_36",
+      "nombre": "Consorcio 90x120 ref. Verde",
+      "tipo_venta": "50 Unidades",
+      "precio": 11496.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_37",
+      "nombre": "ESCOMBRO 45X60",
+      "tipo_venta": "50 Unidades",
+      "precio": 125.0,
+      "categoria": "BOLSAS DE CONSORCIO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE CONSORCIO"
+    },
+    {
+      "id": "producto_38",
+      "nombre": "Residuo B/D 45 x 60",
+      "tipo_venta": "10 Unidades",
+      "precio": 225.0,
+      "categoria": "RESIDUO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría RESIDUO"
+    },
+    {
+      "id": "producto_39",
+      "nombre": "Residuo B/D 45X60 EN ROLLO",
+      "tipo_venta": "20 Unidades",
+      "precio": 711.0,
+      "categoria": "RESIDUO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría RESIDUO"
+    },
+    {
+      "id": "producto_40",
+      "nombre": "Residuo B/D 50 x 70",
+      "tipo_venta": "10 Unidades",
+      "precio": 281.0,
+      "categoria": "RESIDUO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría RESIDUO"
+    },
+    {
+      "id": "producto_41",
+      "nombre": "Residuo B/D 50X70 EN ROLLO",
+      "tipo_venta": "20 Unidades",
+      "precio": 926.0,
+      "categoria": "RESIDUO",
+      "medida": "",
+      "imagen": "/images/bolsas_consorcio.jpg",
+      "descripcion": "Producto de la categoría RESIDUO"
+    },
+    {
+      "id": "producto_42",
+      "nombre": "10X15",
+      "tipo_venta": "",
+      "precio": 646.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_43",
+      "nombre": "10X20",
+      "tipo_venta": "",
+      "precio": 739.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_44",
+      "nombre": "12X15",
+      "tipo_venta": "",
+      "precio": 731.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_45",
+      "nombre": "12X20",
+      "tipo_venta": "",
+      "precio": 871.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_46",
+      "nombre": "12X25",
+      "tipo_venta": "",
+      "precio": 1009.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_47",
+      "nombre": "15X20",
+      "tipo_venta": "TODAS VIENEN PACK POR CIEN UNIDADES",
+      "precio": 1070.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_48",
+      "nombre": "15X25",
+      "tipo_venta": "",
+      "precio": 1181.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_49",
+      "nombre": "15X30",
+      "tipo_venta": "",
+      "precio": 1441.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_50",
+      "nombre": "15x35",
+      "tipo_venta": "",
+      "precio": 1771.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_51",
+      "nombre": "20X25",
+      "tipo_venta": "",
+      "precio": 1716.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_52",
+      "nombre": "20X30",
+      "tipo_venta": "",
+      "precio": 1883.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_53",
+      "nombre": "20X40",
+      "tipo_venta": "",
+      "precio": 2510.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_54",
+      "nombre": "22X35",
+      "tipo_venta": "",
+      "precio": 2370.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_55",
+      "nombre": "25X35",
+      "tipo_venta": "",
+      "precio": 2565.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_56",
+      "nombre": "30x40",
+      "tipo_venta": "",
+      "precio": 3497.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_57",
+      "nombre": "35x45",
+      "tipo_venta": "",
+      "precio": 4613.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_58",
+      "nombre": "40x50",
+      "tipo_venta": "",
+      "precio": 5830.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_59",
+      "nombre": "40x60",
+      "tipo_venta": "",
+      "precio": 7067.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_60",
+      "nombre": "45x60",
+      "tipo_venta": "",
+      "precio": 8128.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_61",
+      "nombre": "50x60",
+      "tipo_venta": "",
+      "precio": 8266.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_62",
+      "nombre": "50x70",
+      "tipo_venta": "",
+      "precio": 11574.0,
+      "categoria": "BOLSAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_63",
+      "nombre": "LAMINA 50X70",
+      "tipo_venta": "1000 Unidades",
+      "precio": 7975.0,
+      "categoria": "LAMINAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría LAMINAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_64",
+      "nombre": "LAMINA 70X100",
+      "tipo_venta": "500 Unidades",
+      "precio": 15037.0,
+      "categoria": "LAMINAS DE POLIPROPILENO",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría LAMINAS DE POLIPROPILENO"
+    },
+    {
+      "id": "producto_65",
+      "nombre": "35X45",
+      "tipo_venta": "10 kg. x Bulto",
+      "precio": 24000,
+      "categoria": "PAPEL BLANCO (DIARIO) EN RESMAS",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría PAPEL BLANCO (DIARIO) EN RESMAS"
+    },
+    {
+      "id": "producto_66",
+      "nombre": "40X50",
+      "tipo_venta": "10 kg. x Bulto",
+      "precio": 24000,
+      "categoria": "PAPEL BLANCO (DIARIO) EN RESMAS",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría PAPEL BLANCO (DIARIO) EN RESMAS"
+    },
+    {
+      "id": "producto_67",
+      "nombre": "45X64",
+      "tipo_venta": "10 kg. x Bulto",
+      "precio": 24000,
+      "categoria": "PAPEL BLANCO (DIARIO) EN RESMAS",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría PAPEL BLANCO (DIARIO) EN RESMAS"
+    },
+    {
+      "id": "producto_68",
+      "nombre": "52X72",
+      "tipo_venta": "10 kg. x Bulto",
+      "precio": 24000,
+      "categoria": "PAPEL BLANCO (DIARIO) EN RESMAS",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría PAPEL BLANCO (DIARIO) EN RESMAS"
+    },
+    {
+      "id": "producto_69",
+      "nombre": "64X90",
+      "tipo_venta": "10 kg. x Bulto",
+      "precio": 24000,
+      "categoria": "PAPEL BLANCO (DIARIO) EN RESMAS",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría PAPEL BLANCO (DIARIO) EN RESMAS"
+    },
+    {
+      "id": "producto_70",
+      "nombre": "BOBINAS DE 20, 40 Y 60 CM",
+      "tipo_venta": "x unidad",
+      "precio": 2400,
+      "categoria": "BOBINAS DE PAPEL DIARIO",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE PAPEL DIARIO"
+    },
+    {
+      "id": "producto_71",
+      "nombre": "RESMA 25X33",
+      "tipo_venta": "1000 HOJAS",
+      "precio": 23500,
+      "categoria": "PAPEL ALUMINIO P/HAMBURGUESAS",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría PAPEL ALUMINIO P/HAMBURGUESAS"
+    },
+    {
+      "id": "producto_72",
+      "nombre": "20 - 40 - 60 cm.",
+      "tipo_venta": "",
+      "precio": 5900,
+      "categoria": "BOBINAS FANTASÍA",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS FANTASÍA"
+    },
+    {
+      "id": "producto_73",
+      "nombre": "20 - 40 - 60 cm.",
+      "tipo_venta": "",
+      "precio": 5900,
+      "categoria": "BOBINAS FANTASÍA (PANADERIA-CONFITERIA)",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS FANTASÍA (PANADERIA-CONFITERIA)"
+    },
+    {
+      "id": "producto_74",
+      "nombre": "20 - 40 - 60 cm.",
+      "tipo_venta": "",
+      "precio": 2541.0,
+      "categoria": "BOBINAS  DE PAPEL KRAFT",
+      "medida": "",
+      "imagen": "/images/bobinas_kraft_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS  DE PAPEL KRAFT"
+    },
+    {
+      "id": "producto_75",
+      "nombre": "Vaso 110 cc.",
+      "tipo_venta": "Caja x 3900",
+      "precio": 2800.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_76",
+      "nombre": "Vaso 180 cc.",
+      "tipo_venta": "Caja x 3000",
+      "precio": 2555.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_77",
+      "nombre": "Vaso 220 cc.",
+      "tipo_venta": "Caja x 3000",
+      "precio": 3155.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_78",
+      "nombre": "Vaso 300 cc.",
+      "tipo_venta": "Caja x 2400",
+      "precio": 3756.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_79",
+      "nombre": "Vaso 330 cc.",
+      "tipo_venta": "Caja x 2400",
+      "precio": 4207.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_80",
+      "nombre": "Tapa de vasos 330 cc",
+      "tipo_venta": "Caja x 2400",
+      "precio": 35.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_81",
+      "nombre": "Tapa de vasos 500 cc",
+      "tipo_venta": "Caja x 1500",
+      "precio": 74.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_82",
+      "nombre": "Vaso 500 cc (cristal)",
+      "tipo_venta": "Caja x 960",
+      "precio": 68.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_83",
+      "nombre": "Vaso 800 cc.",
+      "tipo_venta": "Caja x 636",
+      "precio": 121.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_84",
+      "nombre": "Vaso 1000 cc.",
+      "tipo_venta": "Caja x 540",
+      "precio": 126.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_85",
+      "nombre": "Vaso trago largo",
+      "tipo_venta": "Caja x 250",
+      "precio": 134.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_86",
+      "nombre": "Vaso Milano",
+      "tipo_venta": "",
+      "precio": 195.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_87",
+      "nombre": "Vaso Toledo",
+      "tipo_venta": "",
+      "precio": 157.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_88",
+      "nombre": "Tapa vaso toledo para cuchara/sorbete",
+      "tipo_venta": "",
+      "precio": 90.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_89",
+      "nombre": "Copa sundae",
+      "tipo_venta": "Caja x 200",
+      "precio": 235.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_90",
+      "nombre": "Copa champagne",
+      "tipo_venta": "Caja x 112",
+      "precio": 541.0,
+      "categoria": "VASOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_91",
+      "nombre": "Vaso 120 cc.",
+      "tipo_venta": "100 Unidades",
+      "precio": 52325.0,
+      "categoria": "VASOS  TÉRMICOS Y TAPAS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS  TÉRMICOS Y TAPAS"
+    },
+    {
+      "id": "producto_92",
+      "nombre": "Vaso 180 cc.",
+      "tipo_venta": "100 Unidades",
+      "precio": 61295.0,
+      "categoria": "VASOS  TÉRMICOS Y TAPAS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS  TÉRMICOS Y TAPAS"
+    },
+    {
+      "id": "producto_93",
+      "nombre": "Vaso 240 cc.",
+      "tipo_venta": "100 Unidades",
+      "precio": 70265.0,
+      "categoria": "VASOS  TÉRMICOS Y TAPAS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS  TÉRMICOS Y TAPAS"
+    },
+    {
+      "id": "producto_94",
+      "nombre": "Vaso 300 cc.",
+      "tipo_venta": "100 Unidades",
+      "precio": 82225.0,
+      "categoria": "VASOS  TÉRMICOS Y TAPAS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS  TÉRMICOS Y TAPAS"
+    },
+    {
+      "id": "producto_95",
+      "nombre": "Vaso 360 cc",
+      "tipo_venta": "100 Unidades",
+      "precio": 104650.0,
+      "categoria": "VASOS  TÉRMICOS Y TAPAS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS  TÉRMICOS Y TAPAS"
+    },
+    {
+      "id": "producto_96",
+      "nombre": "Tapa 120 cc",
+      "tipo_venta": "100 Unidades",
+      "precio": 29900.0,
+      "categoria": "VASOS  TÉRMICOS Y TAPAS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS  TÉRMICOS Y TAPAS"
+    },
+    {
+      "id": "producto_97",
+      "nombre": "VASO 8 OZ",
+      "tipo_venta": "100 Unidades",
+      "precio": 125,
+      "categoria": "VASOS DE POLIPAPEL BLANCOS CALOR",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS DE POLIPAPEL BLANCOS CALOR"
+    },
+    {
+      "id": "producto_98",
+      "nombre": "Vaso 12 OZ",
+      "tipo_venta": "100 Unidades",
+      "precio": 155,
+      "categoria": "VASOS DE POLIPAPEL BLANCOS CALOR",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS DE POLIPAPEL BLANCOS CALOR"
+    },
+    {
+      "id": "producto_99",
+      "nombre": "TAPA P/VASO 80Z C/PICO",
+      "tipo_venta": "100 Unidades",
+      "precio": 75,
+      "categoria": "VASOS DE POLIPAPEL BLANCOS CALOR",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS DE POLIPAPEL BLANCOS CALOR"
+    },
+    {
+      "id": "producto_100",
+      "nombre": "TAPA P/VASO 120Z C/PICO",
+      "tipo_venta": "100 Unidades",
+      "precio": 75,
+      "categoria": "VASOS DE POLIPAPEL BLANCOS CALOR",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS DE POLIPAPEL BLANCOS CALOR"
+    },
+    {
+      "id": "producto_101",
+      "nombre": "COLLARIN 8 OZ LISO",
+      "tipo_venta": "100 Unidades",
+      "precio": 45,
+      "categoria": "VASOS DE POLIPAPEL BLANCOS CALOR",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS DE POLIPAPEL BLANCOS CALOR"
+    },
+    {
+      "id": "producto_102",
+      "nombre": "COLLARIN 12 0Z LISO",
+      "tipo_venta": "100 Unidades",
+      "precio": 45,
+      "categoria": "VASOS DE POLIPAPEL BLANCOS CALOR",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría VASOS DE POLIPAPEL BLANCOS CALOR"
+    },
+    {
+      "id": "producto_103",
+      "nombre": "Tenedor / Cuchillo   ( Colono )",
+      "tipo_venta": "1000 Unidades",
+      "precio": 23000,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_104",
+      "nombre": "Tenedor / Cuchillo   ( Eco )",
+      "tipo_venta": "1000 Unidades",
+      "precio": 13200,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_105",
+      "nombre": "Tenedor / Cuchillo   ( Cristal )",
+      "tipo_venta": "1000 Unidades",
+      "precio": 23000,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_106",
+      "nombre": "Cuchara Postre",
+      "tipo_venta": "1000 Unidades",
+      "precio": 28704.0,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_107",
+      "nombre": "Cuchara Sundae blanca (COLONO)",
+      "tipo_venta": "1000 Unidades",
+      "precio": 15900,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_108",
+      "nombre": "Cuchara Sundae blanca ECO",
+      "tipo_venta": "1000 Unidades",
+      "precio": 10166.0,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_109",
+      "nombre": "Removedor de Café",
+      "tipo_venta": "",
+      "precio": 3946.0,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_110",
+      "nombre": "Agitadores de trago largo",
+      "tipo_venta": "",
+      "precio": 2242.0,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_111",
+      "nombre": "Espaditas",
+      "tipo_venta": "1000",
+      "precio": 3588.0,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_112",
+      "nombre": "Agitadores de madera",
+      "tipo_venta": "",
+      "precio": 8970.0,
+      "categoria": "CUBIERTOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría CUBIERTOS"
+    },
+    {
+      "id": "producto_113",
+      "nombre": "P.17",
+      "tipo_venta": "1000 Unidades",
+      "precio": 4628.0,
+      "categoria": "PLATOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría PLATOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_114",
+      "nombre": "P.22",
+      "tipo_venta": "1000 Unidades",
+      "precio": 89009,
+      "categoria": "PLATOS PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría PLATOS PLÁSTICOS"
+    },
+    {
+      "id": "producto_115",
+      "nombre": "Bolsa",
+      "tipo_venta": "1 kg.",
+      "precio": 3400,
+      "categoria": "TRIPODES PLÁSTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría TRIPODES PLÁSTICOS"
+    },
+    {
+      "id": "producto_116",
+      "nombre": "Micro - Marrón Marrón Grande",
+      "tipo_venta": "100 Unidades",
+      "precio": 24900,
+      "categoria": "CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO",
+      "medida": "",
+      "imagen": "/images/cajas_pizza.jpg",
+      "descripcion": "Producto de la categoría CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO"
+    },
+    {
+      "id": "producto_117",
+      "nombre": "Micro - Marrón Marrón MEDIA PIZZA",
+      "tipo_venta": "100 Unidades",
+      "precio": 23500,
+      "categoria": "CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO",
+      "medida": "",
+      "imagen": "/images/cajas_pizza.jpg",
+      "descripcion": "Producto de la categoría CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO"
+    },
+    {
+      "id": "producto_118",
+      "nombre": "Caja de empanadas x 6",
+      "tipo_venta": "100 Unidades",
+      "precio": 26900,
+      "categoria": "CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO",
+      "medida": "",
+      "imagen": "/images/cajas_pizza.jpg",
+      "descripcion": "Producto de la categoría CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO"
+    },
+    {
+      "id": "producto_119",
+      "nombre": "Caja de empanadas x 12",
+      "tipo_venta": "100 Unidades",
+      "precio": 28900,
+      "categoria": "CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO",
+      "medida": "",
+      "imagen": "/images/cajas_pizza.jpg",
+      "descripcion": "Producto de la categoría CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO"
+    },
+    {
+      "id": "producto_120",
+      "nombre": "Caja  para delivery (23X16X10)",
+      "tipo_venta": "X UNIDAD",
+      "precio": 375,
+      "categoria": "CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO",
+      "medida": "",
+      "imagen": "/images/cajas_pizza.jpg",
+      "descripcion": "Producto de la categoría CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO"
+    },
+    {
+      "id": "producto_121",
+      "nombre": "CAJA TAKE AWAY (22X25X8)",
+      "tipo_venta": "50 Unidades",
+      "precio": 475,
+      "categoria": "CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO",
+      "medida": "",
+      "imagen": "/images/cajas_pizza.jpg",
+      "descripcion": "Producto de la categoría CAJAS DE PIZZA / RAVIOL / EMPANADAS/DELIVERY/DESAYUNO"
+    },
+    {
+      "id": "producto_122",
+      "nombre": "Hilo algodón 3 hebras",
+      "tipo_venta": "10 Bobinas",
+      "precio": 2500,
+      "categoria": "HILO",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje.jpg",
+      "descripcion": "Producto de la categoría HILO"
+    },
+    {
+      "id": "producto_123",
+      "nombre": "Hilo Choricero",
+      "tipo_venta": "10 Bobinas",
+      "precio": 3300,
+      "categoria": "HILO",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje.jpg",
+      "descripcion": "Producto de la categoría HILO"
+    },
+    {
+      "id": "producto_124",
+      "nombre": "Nº 3 L",
+      "tipo_venta": "2000 Unidades",
+      "precio": 2244.0,
+      "categoria": "BOLSAS DE PAPEL SULFITO , KRAFT",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL SULFITO , KRAFT"
+    },
+    {
+      "id": "producto_125",
+      "nombre": "Nº 4 A",
+      "tipo_venta": "2000 Unidades",
+      "precio": 2227.0,
+      "categoria": "BOLSAS DE PAPEL SULFITO , KRAFT",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL SULFITO , KRAFT"
+    },
+    {
+      "id": "producto_126",
+      "nombre": "Nº 4",
+      "tipo_venta": "2000 Unidades",
+      "precio": 2407.0,
+      "categoria": "BOLSAS DE PAPEL SULFITO , KRAFT",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL SULFITO , KRAFT"
+    },
+    {
+      "id": "producto_127",
+      "nombre": "Nº 5",
+      "tipo_venta": "1000 Unidades",
+      "precio": 2617.0,
+      "categoria": "BOLSAS DE PAPEL SULFITO , KRAFT",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL SULFITO , KRAFT"
+    },
+    {
+      "id": "producto_128",
+      "nombre": "Nº 6",
+      "tipo_venta": "1000 Unidades",
+      "precio": 2778.0,
+      "categoria": "BOLSAS DE PAPEL SULFITO , KRAFT",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL SULFITO , KRAFT"
+    },
+    {
+      "id": "producto_129",
+      "nombre": "Nº 7",
+      "tipo_venta": "1000 Unidades",
+      "precio": 3499.0,
+      "categoria": "BOLSAS DE PAPEL SULFITO , KRAFT",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL SULFITO , KRAFT"
+    },
+    {
+      "id": "producto_130",
+      "nombre": "Nº 8",
+      "tipo_venta": "1000 Unidades",
+      "precio": 4363.0,
+      "categoria": "BOLSAS DE PAPEL SULFITO , KRAFT",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL SULFITO , KRAFT"
+    },
+    {
+      "id": "producto_131",
+      "nombre": "N 5 (20X30X11)",
+      "tipo_venta": "500 Unidades",
+      "precio": 80.0,
+      "categoria": "BOLSAS  KRAFT  PARA FAST FOOD",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta.png",
+      "descripcion": "Producto de la categoría BOLSAS  KRAFT  PARA FAST FOOD"
+    },
+    {
+      "id": "producto_132",
+      "nombre": "N7 (26X37,5X12,5)",
+      "tipo_venta": "250 Unidades",
+      "precio": 115.0,
+      "categoria": "BOLSAS  KRAFT  PARA FAST FOOD",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta.png",
+      "descripcion": "Producto de la categoría BOLSAS  KRAFT  PARA FAST FOOD"
+    },
+    {
+      "id": "producto_133",
+      "nombre": "N 8 (26X38X17)",
+      "tipo_venta": "250 Unidades",
+      "precio": 143.0,
+      "categoria": "BOLSAS  KRAFT  PARA FAST FOOD",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta.png",
+      "descripcion": "Producto de la categoría BOLSAS  KRAFT  PARA FAST FOOD"
+    },
+    {
+      "id": "producto_134",
+      "nombre": "KP. BOTELLA",
+      "tipo_venta": "100 Unidades",
+      "precio": 499.0,
+      "categoria": "BOLSAS DE PAPEL KRAFT CON MANIJA",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL KRAFT CON MANIJA"
+    },
+    {
+      "id": "producto_135",
+      "nombre": "KP 2 BOTELLAS",
+      "tipo_venta": "100 Unidades",
+      "precio": 429.0,
+      "categoria": "BOLSAS DE PAPEL KRAFT CON MANIJA",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL KRAFT CON MANIJA"
+    },
+    {
+      "id": "producto_136",
+      "nombre": "KP 0 (10X12)",
+      "tipo_venta": "100 Unidades",
+      "precio": 324.0,
+      "categoria": "BOLSAS DE PAPEL KRAFT CON MANIJA",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL KRAFT CON MANIJA"
+    },
+    {
+      "id": "producto_137",
+      "nombre": "G1 (12X20)",
+      "tipo_venta": "100 Unidades",
+      "precio": 358.0,
+      "categoria": "BOLSAS DE PAPEL KRAFT CON MANIJA",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL KRAFT CON MANIJA"
+    },
+    {
+      "id": "producto_138",
+      "nombre": "G2 (16X24)",
+      "tipo_venta": "100 Unidades",
+      "precio": 380.0,
+      "categoria": "BOLSAS DE PAPEL KRAFT CON MANIJA",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL KRAFT CON MANIJA"
+    },
+    {
+      "id": "producto_139",
+      "nombre": "G3 (22X30)",
+      "tipo_venta": "100 Unidades",
+      "precio": 413.0,
+      "categoria": "BOLSAS DE PAPEL KRAFT CON MANIJA",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL KRAFT CON MANIJA"
+    },
+    {
+      "id": "producto_140",
+      "nombre": "G4 (26X36(",
+      "tipo_venta": "100 Unidades",
+      "precio": 429.0,
+      "categoria": "BOLSAS DE PAPEL KRAFT CON MANIJA",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL KRAFT CON MANIJA"
+    },
+    {
+      "id": "producto_141",
+      "nombre": "G5 (30X41)",
+      "tipo_venta": "100 Unidades",
+      "precio": 499.0,
+      "categoria": "BOLSAS DE PAPEL KRAFT CON MANIJA",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL KRAFT CON MANIJA"
+    },
+    {
+      "id": "producto_142",
+      "nombre": "G7 (35X47)",
+      "tipo_venta": "100 Unidades",
+      "precio": 616.0,
+      "categoria": "BOLSAS DE PAPEL KRAFT CON MANIJA",
+      "medida": "",
+      "imagen": "/images/bolsas_camiseta_alt.jpg",
+      "descripcion": "Producto de la categoría BOLSAS DE PAPEL KRAFT CON MANIJA"
+    },
+    {
+      "id": "producto_143",
+      "nombre": "N° 15",
+      "tipo_venta": "100 Unidades",
+      "precio": 1912.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_144",
+      "nombre": "N° 18",
+      "tipo_venta": "100 Unidades",
+      "precio": 2371.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_145",
+      "nombre": "N° 21",
+      "tipo_venta": "100 Unidades",
+      "precio": 3010.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_146",
+      "nombre": "N° 25",
+      "tipo_venta": "100 Unidades",
+      "precio": 4212.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_147",
+      "nombre": "N° 28",
+      "tipo_venta": "100 Unidades",
+      "precio": 4541.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_148",
+      "nombre": "N° 30",
+      "tipo_venta": "100 Unidades",
+      "precio": 5093.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_149",
+      "nombre": "N° 32",
+      "tipo_venta": "100 Unidades",
+      "precio": 5499.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_150",
+      "nombre": "N° 35",
+      "tipo_venta": "100 Unidades",
+      "precio": 6085.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_151",
+      "nombre": "N° 38",
+      "tipo_venta": "100 Unidades",
+      "precio": 7327.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_152",
+      "nombre": "N° 40",
+      "tipo_venta": "100 Unidades",
+      "precio": 7956.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_153",
+      "nombre": "N° 42",
+      "tipo_venta": "100 Unidades",
+      "precio": 9445.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_154",
+      "nombre": "N° 45",
+      "tipo_venta": "100 Unidades",
+      "precio": 11388.0,
+      "categoria": "BLONDAS DE PAPEL CALADAS REDONDAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría BLONDAS DE PAPEL CALADAS REDONDAS"
+    },
+    {
+      "id": "producto_155",
+      "nombre": "Film 30cm x 30 mts.",
+      "tipo_venta": "25",
+      "precio": 545.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_156",
+      "nombre": "Film 38 cm. Repuesto 90 mts WESTFILM",
+      "tipo_venta": "6",
+      "precio": 4335.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_157",
+      "nombre": "Film 38 cm. Repuesto 85 mts SUR",
+      "tipo_venta": "20",
+      "precio": 3588.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_158",
+      "nombre": "FILM 300 MTS. REALES",
+      "tipo_venta": "6",
+      "precio": 9007.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_159",
+      "nombre": "PVC 12\"  600 mts",
+      "tipo_venta": "x unidad",
+      "precio": 11810.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_160",
+      "nombre": "PVC 15\"  600 mts",
+      "tipo_venta": "x unidad",
+      "precio": 13156.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_161",
+      "nombre": "PVC18\"  600 mts.",
+      "tipo_venta": "x unidad",
+      "precio": 16744.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_162",
+      "nombre": "PVC 15  X 1000 MTS",
+      "tipo_venta": "1 Rollo",
+      "precio": 28405.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_163",
+      "nombre": "Rollo Aluminio  x 5 Mts.",
+      "tipo_venta": "1 Rollo",
+      "precio": 822.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_164",
+      "nombre": "Rollo aluminio 1/2 kilo",
+      "tipo_venta": "15 Unidades",
+      "precio": 5382.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_165",
+      "nombre": "Rollo Aluminio 1 kg.",
+      "tipo_venta": "10 unidades",
+      "precio": 6951.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_166",
+      "nombre": "Film manteca x 5 mts.",
+      "tipo_venta": "40 rollos",
+      "precio": 1001.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_167",
+      "nombre": "Film manteca x 1 kilo",
+      "tipo_venta": "",
+      "precio": 9568.0,
+      "categoria": "FILM ADHERENTE",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría FILM ADHERENTE"
+    },
+    {
+      "id": "producto_168",
+      "nombre": "Nº 1",
+      "tipo_venta": "1600 Unidades",
+      "precio": 2388.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_169",
+      "nombre": "Nº 2",
+      "tipo_venta": "1500 Unidades",
+      "precio": 2995.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_170",
+      "nombre": "Nº 3",
+      "tipo_venta": "1500 Unidades",
+      "precio": 3915.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_171",
+      "nombre": "Nº 4",
+      "tipo_venta": "1200 Unidades",
+      "precio": 4789.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_172",
+      "nombre": "Nº 5",
+      "tipo_venta": "600 Unidades",
+      "precio": 5803.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_173",
+      "nombre": "Nº 6",
+      "tipo_venta": "600 Unidades",
+      "precio": 7176.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_174",
+      "nombre": "Nº 7",
+      "tipo_venta": "400 Unidades",
+      "precio": 9750.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_175",
+      "nombre": "Nº 8",
+      "tipo_venta": "400 Unidades",
+      "precio": 12636.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_176",
+      "nombre": "Nº 12",
+      "tipo_venta": "1200 Unidades",
+      "precio": 4914.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_177",
+      "nombre": "Nº 12,5",
+      "tipo_venta": "1200 Unidades",
+      "precio": 5148.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_178",
+      "nombre": "Nº 13",
+      "tipo_venta": "900 Unidades",
+      "precio": 6084.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_179",
+      "nombre": "Nº 13,5",
+      "tipo_venta": "900 Unidades",
+      "precio": 7332.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_180",
+      "nombre": "Nº 14",
+      "tipo_venta": "600 Unidades",
+      "precio": 9204.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_181",
+      "nombre": "Nº 15",
+      "tipo_venta": "400 Unidades",
+      "precio": 11856.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_182",
+      "nombre": "Nº 16",
+      "tipo_venta": "400 Unidades",
+      "precio": 12636.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_183",
+      "nombre": "Portapanchos",
+      "tipo_venta": "500 Unidades",
+      "precio": 1014.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_184",
+      "nombre": "Cono para papas fritas",
+      "tipo_venta": "200 Unidades",
+      "precio": 1716.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_185",
+      "nombre": "ESTUCHES P/PAPAS FRITAS",
+      "tipo_venta": "X UNIDAD",
+      "precio": 107.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_186",
+      "nombre": "Caja para hamburguesas carton",
+      "tipo_venta": "X UNIDAD",
+      "precio": 291.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_187",
+      "nombre": "PORTAVASOS X2",
+      "tipo_venta": "X UNIDAD",
+      "precio": 112.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_188",
+      "nombre": "PORTAVASOS X2 C/BANDEJA",
+      "tipo_venta": "X UNIDAD",
+      "precio": 83.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_189",
+      "nombre": "CAJITA CARAMELERA",
+      "tipo_venta": "x unidad",
+      "precio": 195.0,
+      "categoria": "BANDEJAS DE CARTÓN BLANCO",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN BLANCO"
+    },
+    {
+      "id": "producto_190",
+      "nombre": "Nº 1",
+      "tipo_venta": "2000 Unidades",
+      "precio": 1372.0,
+      "categoria": "BANDEJAS DE CARTÓN GRIS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN GRIS"
+    },
+    {
+      "id": "producto_191",
+      "nombre": "Nº 2",
+      "tipo_venta": "1200 Unidades",
+      "precio": 1794.0,
+      "categoria": "BANDEJAS DE CARTÓN GRIS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN GRIS"
+    },
+    {
+      "id": "producto_192",
+      "nombre": "Nº 3",
+      "tipo_venta": "1200 Unidades",
+      "precio": 2262.0,
+      "categoria": "BANDEJAS DE CARTÓN GRIS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN GRIS"
+    },
+    {
+      "id": "producto_193",
+      "nombre": "Nº 4",
+      "tipo_venta": "900 Unidades",
+      "precio": 2870.0,
+      "categoria": "BANDEJAS DE CARTÓN GRIS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN GRIS"
+    },
+    {
+      "id": "producto_194",
+      "nombre": "Nº 5",
+      "tipo_venta": "900 Unidades",
+      "precio": 3285.0,
+      "categoria": "BANDEJAS DE CARTÓN GRIS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN GRIS"
+    },
+    {
+      "id": "producto_195",
+      "nombre": "Nº 1",
+      "tipo_venta": "1600 Unidades",
+      "precio": 5000.0,
+      "categoria": "BANDEJAS DE CARTÓN SATINADAS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN SATINADAS"
+    },
+    {
+      "id": "producto_196",
+      "nombre": "Nº 2",
+      "tipo_venta": "1500 Unidades",
+      "precio": 5323.0,
+      "categoria": "BANDEJAS DE CARTÓN SATINADAS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN SATINADAS"
+    },
+    {
+      "id": "producto_197",
+      "nombre": "Nº 3",
+      "tipo_venta": "1500 Unidades",
+      "precio": 6767.0,
+      "categoria": "BANDEJAS DE CARTÓN SATINADAS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN SATINADAS"
+    },
+    {
+      "id": "producto_198",
+      "nombre": "Nº 4",
+      "tipo_venta": "600 Unidades",
+      "precio": 8970.0,
+      "categoria": "BANDEJAS DE CARTÓN SATINADAS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN SATINADAS"
+    },
+    {
+      "id": "producto_199",
+      "nombre": "Nº 5",
+      "tipo_venta": "600 Unidades",
+      "precio": 10423.0,
+      "categoria": "BANDEJAS DE CARTÓN SATINADAS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN SATINADAS"
+    },
+    {
+      "id": "producto_200",
+      "nombre": "Nº 6",
+      "tipo_venta": "600 Unidades",
+      "precio": 14352.0,
+      "categoria": "BANDEJAS DE CARTÓN SATINADAS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN SATINADAS"
+    },
+    {
+      "id": "producto_201",
+      "nombre": "DESAYUNO (31X31X7)",
+      "tipo_venta": "20 UNIDADES",
+      "precio": 397.0,
+      "categoria": "BANDEJAS DE CARTON PARA DESAYUNO IMPRESAS",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTON PARA DESAYUNO IMPRESAS"
+    },
+    {
+      "id": "producto_202",
+      "nombre": "Nº 1 (9X12X5)",
+      "tipo_venta": "500 Unidades",
+      "precio": 54.0,
+      "categoria": "BANDEJAS DE CARTÓN FOODTRUCK",
+      "medida": "",
+      "imagen": "/images/cajas_pizza.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN FOODTRUCK"
+    },
+    {
+      "id": "producto_203",
+      "nombre": "Nº 2 (13X16X5)",
+      "tipo_venta": "500 Unidades",
+      "precio": 76.0,
+      "categoria": "BANDEJAS DE CARTÓN FOODTRUCK",
+      "medida": "",
+      "imagen": "/images/cajas_pizza.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN FOODTRUCK"
+    },
+    {
+      "id": "producto_204",
+      "nombre": "Nº 3 (14X18X5)",
+      "tipo_venta": "500 Unidades",
+      "precio": 86.0,
+      "categoria": "BANDEJAS DE CARTÓN FOODTRUCK",
+      "medida": "",
+      "imagen": "/images/cajas_pizza.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE CARTÓN FOODTRUCK"
+    },
+    {
+      "id": "producto_205",
+      "nombre": "Rectangulares 1/4 kilo",
+      "tipo_venta": "50 Unidades",
+      "precio": 187.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_206",
+      "nombre": "Rectangulares 1/2 kilo",
+      "tipo_venta": "50 Unidades",
+      "precio": 291.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_207",
+      "nombre": "Rectangulares 3/4 kilo",
+      "tipo_venta": "50 Unidades",
+      "precio": 350.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_208",
+      "nombre": "Rectangulares 1 kilo",
+      "tipo_venta": "50 Unidades",
+      "precio": 416.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_209",
+      "nombre": "Rectangulares 1 y 1/2 kilos",
+      "tipo_venta": "50 Unidades",
+      "precio": 463.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_210",
+      "nombre": "Rectangulares 2 kilos",
+      "tipo_venta": "50 Unidades",
+      "precio": 611.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_211",
+      "nombre": "Rectangulares 2 1/2  kilos",
+      "tipo_venta": "50 Unidades",
+      "precio": 1053.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_212",
+      "nombre": "Rectangulares 3 kilos",
+      "tipo_venta": "50 Unidades",
+      "precio": 1213.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_213",
+      "nombre": "Plato N° 12 y 1/2               23,5 cm",
+      "tipo_venta": "50 Unidades",
+      "precio": 365.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_214",
+      "nombre": "13",
+      "tipo_venta": "50 Unidades",
+      "precio": 426.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_215",
+      "nombre": "Plato N° 13 y 1/2               25,5 cm",
+      "tipo_venta": "50 Unidades",
+      "precio": 471.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_216",
+      "nombre": "Plato N° 14                 26 cm",
+      "tipo_venta": "50 Unidades",
+      "precio": 579.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_217",
+      "nombre": "Plato N° 14 y 1/2          29 cm",
+      "tipo_venta": "50 Unidades",
+      "precio": 695.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_218",
+      "nombre": "Plato N° 15             31,5 cm",
+      "tipo_venta": "50 Unidades",
+      "precio": 973.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_219",
+      "nombre": "Plato N° 16            34,5 cm",
+      "tipo_venta": "50 Unidades",
+      "precio": 1246.0,
+      "categoria": "BANDEJAS Y PLATOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS Y PLATOS DORADOS"
+    },
+    {
+      "id": "producto_220",
+      "nombre": "Rectangulares 1/4 kilo",
+      "tipo_venta": "50 Unidades",
+      "precio": 131.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_221",
+      "nombre": "Rectangulares 1/2 kilo",
+      "tipo_venta": "50 Unidades",
+      "precio": 180.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_222",
+      "nombre": "Rectangulares 1 kilo",
+      "tipo_venta": "50 Unidades",
+      "precio": 404.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_223",
+      "nombre": "Rectangulares 2 kilos",
+      "tipo_venta": "50 Unidades",
+      "precio": 532.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_224",
+      "nombre": "Circulares  N 22",
+      "tipo_venta": "50 Unidades",
+      "precio": 348.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_225",
+      "nombre": "Circulares  N 24",
+      "tipo_venta": "50 Unidades",
+      "precio": 404.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_226",
+      "nombre": "Circulares N 26",
+      "tipo_venta": "50 Unidades",
+      "precio": 493.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_227",
+      "nombre": "Circulares N 28",
+      "tipo_venta": "50 Unidades",
+      "precio": 523.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_228",
+      "nombre": "Circulares N 31",
+      "tipo_venta": "50 Unidades",
+      "precio": 576.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_229",
+      "nombre": "Circulares N 34",
+      "tipo_venta": "50 Unidades",
+      "precio": 668.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_230",
+      "nombre": "Circulares N 36",
+      "tipo_venta": "50 Unidades",
+      "precio": 785.0,
+      "categoria": "PLATOS DIPLOMATICOS DORADOS",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DIPLOMATICOS DORADOS"
+    },
+    {
+      "id": "producto_231",
+      "nombre": "5 X 50 CM",
+      "tipo_venta": "10 kg.",
+      "precio": 2340.0,
+      "categoria": "TIRAS DE CARTULINA PARA TORTA",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría TIRAS DE CARTULINA PARA TORTA"
+    },
+    {
+      "id": "producto_232",
+      "nombre": "5 X 60 CM",
+      "tipo_venta": "10 kg.",
+      "precio": 2340.0,
+      "categoria": "TIRAS DE CARTULINA PARA TORTA",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría TIRAS DE CARTULINA PARA TORTA"
+    },
+    {
+      "id": "producto_233",
+      "nombre": "6 X 70 CM",
+      "tipo_venta": "10 kg.",
+      "precio": 2340.0,
+      "categoria": "TIRAS DE CARTULINA PARA TORTA",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría TIRAS DE CARTULINA PARA TORTA"
+    },
+    {
+      "id": "producto_234",
+      "nombre": "18-20-22-24-26",
+      "tipo_venta": "5 kg.",
+      "precio": 4550.0,
+      "categoria": "DISCOS DE CARTON",
+      "medida": "",
+      "imagen": "/images/bandejas_carton_blanco.jpg",
+      "descripcion": "Producto de la categoría DISCOS DE CARTON"
+    },
+    {
+      "id": "producto_235",
+      "nombre": "Bandeja  101  Microondas",
+      "tipo_venta": "1200 Unidades",
+      "precio": 3276.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_236",
+      "nombre": "Bandeja  102  Microondas",
+      "tipo_venta": "1200 Unidades",
+      "precio": 3798.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_237",
+      "nombre": "Bandeja 103   Microondas",
+      "tipo_venta": "1000 Unidades",
+      "precio": 4212.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_238",
+      "nombre": "Bandeja 105   Microondas",
+      "tipo_venta": "800 Unidades",
+      "precio": 6240.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_239",
+      "nombre": "Bandeja 105   Microondas RECTAN",
+      "tipo_venta": "800 Unidades",
+      "precio": 9516.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_240",
+      "nombre": "Bandeja 107   Microondas",
+      "tipo_venta": "600 Unidades",
+      "precio": 11941.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_241",
+      "nombre": "Tapa  101  Microondas",
+      "tipo_venta": "600 Unidades",
+      "precio": 2923.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_242",
+      "nombre": "Tapa  102  Microondas",
+      "tipo_venta": "600 Unidades",
+      "precio": 4992.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_243",
+      "nombre": "Tapa 103   Microondas",
+      "tipo_venta": "600 Unidades",
+      "precio": 7176.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_244",
+      "nombre": "Tapa 105   Microondas",
+      "tipo_venta": "500 Unidades",
+      "precio": 12636.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_245",
+      "nombre": "Tapa 107   Microondas",
+      "tipo_venta": "500 Unidades",
+      "precio": 13884.0,
+      "categoria": "BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE PLÁSTICO MICROONDAS LIVIANAS"
+    },
+    {
+      "id": "producto_246",
+      "nombre": "SUSHI CHICA",
+      "tipo_venta": "",
+      "precio": 313.0,
+      "categoria": "BANDEJAS PLASTICAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS PLASTICAS"
+    },
+    {
+      "id": "producto_247",
+      "nombre": "1/2 COSTILLA (41X18X6)",
+      "tipo_venta": "",
+      "precio": 935.0,
+      "categoria": "BANDEJAS PLASTICAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS PLASTICAS"
+    },
+    {
+      "id": "producto_248",
+      "nombre": "REDONDA CON DIVISION 26 DIAM.",
+      "tipo_venta": "",
+      "precio": 508.0,
+      "categoria": "BANDEJAS PLASTICAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS PLASTICAS"
+    },
+    {
+      "id": "producto_249",
+      "nombre": "UN POLLO",
+      "tipo_venta": "",
+      "precio": 481.0,
+      "categoria": "BANDEJAS PLASTICAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS PLASTICAS"
+    },
+    {
+      "id": "producto_250",
+      "nombre": "2550 (25X16X6)",
+      "tipo_venta": "200 Unidades",
+      "precio": 497.0,
+      "categoria": "BANDEJAS PLASTICAS BISAGRA",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS PLASTICAS BISAGRA"
+    },
+    {
+      "id": "producto_251",
+      "nombre": "2575 (25X16X8)",
+      "tipo_venta": "200 Unidades",
+      "precio": 493.0,
+      "categoria": "BANDEJAS PLASTICAS BISAGRA",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS PLASTICAS BISAGRA"
+    },
+    {
+      "id": "producto_252",
+      "nombre": "142",
+      "tipo_venta": "",
+      "precio": 110.0,
+      "categoria": "ESTUCHES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría ESTUCHES PLASTICOS"
+    },
+    {
+      "id": "producto_253",
+      "nombre": "143",
+      "tipo_venta": "",
+      "precio": 164.0,
+      "categoria": "ESTUCHES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría ESTUCHES PLASTICOS"
+    },
+    {
+      "id": "producto_254",
+      "nombre": "145",
+      "tipo_venta": "",
+      "precio": 254.0,
+      "categoria": "ESTUCHES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría ESTUCHES PLASTICOS"
+    },
+    {
+      "id": "producto_255",
+      "nombre": "147",
+      "tipo_venta": "",
+      "precio": 396.0,
+      "categoria": "ESTUCHES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría ESTUCHES PLASTICOS"
+    },
+    {
+      "id": "producto_256",
+      "nombre": "142",
+      "tipo_venta": "",
+      "precio": 167.0,
+      "categoria": "BANDEJAS CON TAPA BISAGRA MICROONDAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS CON TAPA BISAGRA MICROONDAS"
+    },
+    {
+      "id": "producto_257",
+      "nombre": "143",
+      "tipo_venta": "",
+      "precio": 231.0,
+      "categoria": "BANDEJAS CON TAPA BISAGRA MICROONDAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS CON TAPA BISAGRA MICROONDAS"
+    },
+    {
+      "id": "producto_258",
+      "nombre": "145",
+      "tipo_venta": "",
+      "precio": 361.0,
+      "categoria": "BANDEJAS CON TAPA BISAGRA MICROONDAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS CON TAPA BISAGRA MICROONDAS"
+    },
+    {
+      "id": "producto_259",
+      "nombre": "147",
+      "tipo_venta": "",
+      "precio": 560.0,
+      "categoria": "BANDEJAS CON TAPA BISAGRA MICROONDAS",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS CON TAPA BISAGRA MICROONDAS"
+    },
+    {
+      "id": "producto_260",
+      "nombre": "ENSALADERAS",
+      "tipo_venta": "",
+      "precio": 19195.0,
+      "categoria": "ENSALADERAS  PLÁSTICAS (PLASTIVAS)",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría ENSALADERAS  PLÁSTICAS (PLASTIVAS)"
+    },
+    {
+      "id": "producto_261",
+      "nombre": "GENOA GRANDE NEGRA",
+      "tipo_venta": "",
+      "precio": 19232.0,
+      "categoria": "ENSALADERAS  PLÁSTICAS (PLASTIVAS)",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría ENSALADERAS  PLÁSTICAS (PLASTIVAS)"
+    },
+    {
+      "id": "producto_262",
+      "nombre": "GENOA CHICA",
+      "tipo_venta": "",
+      "precio": 17181.0,
+      "categoria": "ENSALADERAS  PLÁSTICAS (PLASTIVAS)",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría ENSALADERAS  PLÁSTICAS (PLASTIVAS)"
+    },
+    {
+      "id": "producto_263",
+      "nombre": "GENOA MEDIANA",
+      "tipo_venta": "",
+      "precio": 20235.0,
+      "categoria": "ENSALADERAS  PLÁSTICAS (PLASTIVAS)",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría ENSALADERAS  PLÁSTICAS (PLASTIVAS)"
+    },
+    {
+      "id": "producto_264",
+      "nombre": "GENOA GRANDE",
+      "tipo_venta": "",
+      "precio": 24474.0,
+      "categoria": "ENSALADERAS  PLÁSTICAS (PLASTIVAS)",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría ENSALADERAS  PLÁSTICAS (PLASTIVAS)"
+    },
+    {
+      "id": "producto_265",
+      "nombre": "TAPAS",
+      "tipo_venta": "",
+      "precio": 11037.0,
+      "categoria": "ENSALADERAS  PLÁSTICAS (PLASTIVAS)",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría ENSALADERAS  PLÁSTICAS (PLASTIVAS)"
+    },
+    {
+      "id": "producto_266",
+      "nombre": "ENS. BLANCA CON T/TRANSP.",
+      "tipo_venta": "",
+      "precio": 807.0,
+      "categoria": "ENSALADERAS  DE POLIPAPEL",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría ENSALADERAS  DE POLIPAPEL"
+    },
+    {
+      "id": "producto_267",
+      "nombre": "Bandeja 615",
+      "tipo_venta": "400 Unidades",
+      "precio": 104.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_268",
+      "nombre": "Bandeja 617",
+      "tipo_venta": "400 Unidades",
+      "precio": 56.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_269",
+      "nombre": "Bandeja 618",
+      "tipo_venta": "400 Unidades",
+      "precio": 70.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_270",
+      "nombre": "Bandeja 619",
+      "tipo_venta": "400 Unidades",
+      "precio": 104.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_271",
+      "nombre": "Bandeja 621",
+      "tipo_venta": "400 Unidades",
+      "precio": 62.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_272",
+      "nombre": "Bandeja 625",
+      "tipo_venta": "200 Unidades",
+      "precio": 134.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_273",
+      "nombre": "Bandeja 628",
+      "tipo_venta": "200 Unidades",
+      "precio": 224.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_274",
+      "nombre": "Oblea 618",
+      "tipo_venta": "600 Unidades",
+      "precio": 70.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_275",
+      "nombre": "Oblea 619",
+      "tipo_venta": "600 Unidades",
+      "precio": 110.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_276",
+      "nombre": "Platos termicos",
+      "tipo_venta": "300 Unidades",
+      "precio": 284.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_277",
+      "nombre": "Estuche termico profundo",
+      "tipo_venta": "200 Unidades",
+      "precio": 372.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_278",
+      "nombre": "Estuche termico para hamburguesas",
+      "tipo_venta": "200 Unidades",
+      "precio": 216.0,
+      "categoria": "BANDEJAS DE EXPANDIDO",
+      "medida": "",
+      "imagen": "/images/bandejas_plasticas.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE EXPANDIDO"
+    },
+    {
+      "id": "producto_279",
+      "nombre": "0.25",
+      "tipo_venta": "100 Unidades",
+      "precio": 293.0,
+      "categoria": "POTES TERMICOS PARA HELADO",
+      "medida": "",
+      "imagen": "/images/potes_termicos_helado_corrected.jpg",
+      "descripcion": "Producto de la categoría POTES TERMICOS PARA HELADO"
+    },
+    {
+      "id": "producto_280",
+      "nombre": "0.5",
+      "tipo_venta": "100 Unidades",
+      "precio": 450.0,
+      "categoria": "POTES TERMICOS PARA HELADO",
+      "medida": "",
+      "imagen": "/images/potes_termicos_helado_corrected.jpg",
+      "descripcion": "Producto de la categoría POTES TERMICOS PARA HELADO"
+    },
+    {
+      "id": "producto_281",
+      "nombre": "KILO",
+      "tipo_venta": "100 Unidades",
+      "precio": 670.0,
+      "categoria": "POTES TERMICOS PARA HELADO",
+      "medida": "",
+      "imagen": "/images/potes_termicos_helado_corrected.jpg",
+      "descripcion": "Producto de la categoría POTES TERMICOS PARA HELADO"
+    },
+    {
+      "id": "producto_282",
+      "nombre": "F 50",
+      "tipo_venta": "600 Unidades",
+      "precio": 166.0,
+      "categoria": "BANDEJAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_283",
+      "nombre": "F 75",
+      "tipo_venta": "600 Unidades",
+      "precio": 187.0,
+      "categoria": "BANDEJAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_284",
+      "nombre": "F100",
+      "tipo_venta": "500 Unidades",
+      "precio": 226.0,
+      "categoria": "BANDEJAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_285",
+      "nombre": "F 200",
+      "tipo_venta": "150 Unidades",
+      "precio": 514.0,
+      "categoria": "BANDEJAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_286",
+      "nombre": "TAPAS F 50",
+      "tipo_venta": "500 Unidades",
+      "precio": 123.0,
+      "categoria": "BANDEJAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_287",
+      "nombre": "TAPAS F 75",
+      "tipo_venta": "600 Unidades",
+      "precio": 141.0,
+      "categoria": "BANDEJAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_288",
+      "nombre": "TAPAS F 100",
+      "tipo_venta": "400 Unidades",
+      "precio": 202.0,
+      "categoria": "BANDEJAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_289",
+      "nombre": "TAPAS F 200",
+      "tipo_venta": "200 Unidades",
+      "precio": 411.0,
+      "categoria": "BANDEJAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BANDEJAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_290",
+      "nombre": "15 cm.",
+      "tipo_venta": "",
+      "precio": 187.0,
+      "categoria": "PLATOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_291",
+      "nombre": "17 cm.",
+      "tipo_venta": "",
+      "precio": 182.0,
+      "categoria": "PLATOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_292",
+      "nombre": "20 cm.",
+      "tipo_venta": "",
+      "precio": 195.0,
+      "categoria": "PLATOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_293",
+      "nombre": "23 cm.",
+      "tipo_venta": "",
+      "precio": 243.0,
+      "categoria": "PLATOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_294",
+      "nombre": "26 cm.",
+      "tipo_venta": "",
+      "precio": 288.0,
+      "categoria": "PLATOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_295",
+      "nombre": "30 cm.",
+      "tipo_venta": "",
+      "precio": 411.0,
+      "categoria": "PLATOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_296",
+      "nombre": "33 cm.",
+      "tipo_venta": "",
+      "precio": 522.0,
+      "categoria": "PLATOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría PLATOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_297",
+      "nombre": "120 cm.",
+      "tipo_venta": "",
+      "precio": 134.0,
+      "categoria": "VASOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría VASOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_298",
+      "nombre": "130 cm.",
+      "tipo_venta": "",
+      "precio": 115.0,
+      "categoria": "VASOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría VASOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_299",
+      "nombre": "230 cm.",
+      "tipo_venta": "",
+      "precio": 135.0,
+      "categoria": "VASOS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría VASOS DE ALUMINIO"
+    },
+    {
+      "id": "producto_300",
+      "nombre": "chica",
+      "tipo_venta": "1300 Unidades",
+      "precio": 150.0,
+      "categoria": "BUDINERAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BUDINERAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_301",
+      "nombre": "mediana",
+      "tipo_venta": "800 Unidades",
+      "precio": 160.0,
+      "categoria": "BUDINERAS DE ALUMINIO",
+      "medida": "",
+      "imagen": "/images/bandejas_aluminio.jpg",
+      "descripcion": "Producto de la categoría BUDINERAS DE ALUMINIO"
+    },
+    {
+      "id": "producto_302",
+      "nombre": "Pote Degustacion 55 gr.",
+      "tipo_venta": "1300 Unidades",
+      "precio": 4186.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_303",
+      "nombre": "Pote Degustacion 80 gr.",
+      "tipo_venta": "1300 Unidades",
+      "precio": 4335.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_304",
+      "nombre": "Pote Natural 140 gr.",
+      "tipo_venta": "2000 Unidades",
+      "precio": 6129.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_305",
+      "nombre": "Pote Natural 250 gr.",
+      "tipo_venta": "1200 Unidades",
+      "precio": 5232.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_306",
+      "nombre": "Pote Natural 500 gr.",
+      "tipo_venta": "1200  Unidades",
+      "precio": 8222.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_307",
+      "nombre": "Pote Natural 1000 gr.",
+      "tipo_venta": "800 Unidades",
+      "precio": 16893.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_308",
+      "nombre": "Tapa Pote degustacion",
+      "tipo_venta": "1300 Unidades",
+      "precio": 2242.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_309",
+      "nombre": "Tapa Pote 140 gr.",
+      "tipo_venta": "1000 Unidades",
+      "precio": 3588.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_310",
+      "nombre": "Tapa Pote ( 250 - 500 gr.)",
+      "tipo_venta": "1200 Unidades",
+      "precio": 3588.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_311",
+      "nombre": "Tapa pote (1000 gr. )",
+      "tipo_venta": "800 Unidades",
+      "precio": 5830.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_312",
+      "nombre": "Pote plástico tapa bisagra Bajo",
+      "tipo_venta": "800 Unidades",
+      "precio": 122.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_313",
+      "nombre": "Pote plástico tapa bisagra MEDIANO",
+      "tipo_venta": "800 Unidades",
+      "precio": 122.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_314",
+      "nombre": "Pote plástico tapa bisagra ALTO",
+      "tipo_venta": "800 Unidades",
+      "precio": 143.0,
+      "categoria": "POTES PLASTICOS",
+      "medida": "",
+      "imagen": "/images/vasos_plasticos_new.jpg",
+      "descripcion": "Producto de la categoría POTES PLASTICOS"
+    },
+    {
+      "id": "producto_315",
+      "nombre": "Fluo",
+      "tipo_venta": "10 Unidades",
+      "precio": 6727.0,
+      "categoria": "ROLLO MOTEX",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje.jpg",
+      "descripcion": "Producto de la categoría ROLLO MOTEX"
+    },
+    {
+      "id": "producto_316",
+      "nombre": "Blanco",
+      "tipo_venta": "10 Unidades",
+      "precio": 5980.0,
+      "categoria": "ROLLO MOTEX",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje.jpg",
+      "descripcion": "Producto de la categoría ROLLO MOTEX"
+    },
+    {
+      "id": "producto_317",
+      "nombre": "Etiquetadora 8 dig.",
+      "tipo_venta": "x unidad",
+      "precio": 15847.0,
+      "categoria": "MÁQUINA ETIQUETADORA",
+      "medida": "",
+      "imagen": "/images/maquina_etiquetadora_corrected.jpg",
+      "descripcion": "Producto de la categoría MÁQUINA ETIQUETADORA"
+    },
+    {
+      "id": "producto_318",
+      "nombre": "Entintador",
+      "tipo_venta": "x unidad",
+      "precio": 690,
+      "categoria": "MÁQUINA ETIQUETADORA",
+      "medida": "",
+      "imagen": "/images/maquina_etiquetadora_corrected.jpg",
+      "descripcion": "Producto de la categoría MÁQUINA ETIQUETADORA"
+    },
+    {
+      "id": "producto_319",
+      "nombre": "37 X 50",
+      "tipo_venta": "10 Unidades",
+      "precio": 7176.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_320",
+      "nombre": "44 X 40",
+      "tipo_venta": "10 Unidades",
+      "precio": 6708.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_321",
+      "nombre": "57 X 30",
+      "tipo_venta": "10 Unidades",
+      "precio": 7332.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_322",
+      "nombre": "74 X 50",
+      "tipo_venta": "10 Unidades",
+      "precio": 16380.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_323",
+      "nombre": "Rollo Térmico  37 X 30",
+      "tipo_venta": "10 Unidades",
+      "precio": 3744.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_324",
+      "nombre": "Rollo Térmico  44 X 30",
+      "tipo_venta": "10 Unidades",
+      "precio": 6396.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_325",
+      "nombre": "Rollo Térmico  57 X 20",
+      "tipo_venta": "10 Unidades",
+      "precio": 3276.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_326",
+      "nombre": "Rollo Térmico  57 X 30",
+      "tipo_venta": "10 Unidades",
+      "precio": 4836.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_327",
+      "nombre": "Rollo termico 76 X 30",
+      "tipo_venta": "10 unidades",
+      "precio": 6552.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_328",
+      "nombre": "Rollo termico 80 X 30",
+      "tipo_venta": "10 Unidades",
+      "precio": 6708.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_329",
+      "nombre": "Rollo termico 80 X 50",
+      "tipo_venta": "10 Unidades",
+      "precio": 10608.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_330",
+      "nombre": "Rollo 75 quimico",
+      "tipo_venta": "10 Unidades",
+      "precio": 1872.0,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_331",
+      "nombre": "ETIQUETAS ADHESIVAS P/BALANZA",
+      "tipo_venta": "1 Unidad",
+      "precio": 1950,
+      "categoria": "ROLLO REGISTRADORA",
+      "medida": "",
+      "imagen": "/images/papel_aluminio.jpg",
+      "descripcion": "Producto de la categoría ROLLO REGISTRADORA"
+    },
+    {
+      "id": "producto_332",
+      "nombre": "12 mm/ 60 Mts.  Polipropileno",
+      "tipo_venta": "144 Unidades",
+      "precio": 266.0,
+      "categoria": "CINTAS DE EMBALAJE",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje_corrected.jpg",
+      "descripcion": "Producto de la categoría CINTAS DE EMBALAJE"
+    },
+    {
+      "id": "producto_333",
+      "nombre": "24 mm / 60 Mts. Polipropileno",
+      "tipo_venta": "72 Unidades",
+      "precio": 413.0,
+      "categoria": "CINTAS DE EMBALAJE",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje_corrected.jpg",
+      "descripcion": "Producto de la categoría CINTAS DE EMBALAJE"
+    },
+    {
+      "id": "producto_334",
+      "nombre": "48 mm / 50 Mts. Polipropileno",
+      "tipo_venta": "36 Unidades",
+      "precio": 655.0,
+      "categoria": "CINTAS DE EMBALAJE",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje_corrected.jpg",
+      "descripcion": "Producto de la categoría CINTAS DE EMBALAJE"
+    },
+    {
+      "id": "producto_335",
+      "nombre": "48 mm / 100 Mts. Polipropileno",
+      "tipo_venta": "36 Unidades",
+      "precio": 1216.0,
+      "categoria": "CINTAS DE EMBALAJE",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje_corrected.jpg",
+      "descripcion": "Producto de la categoría CINTAS DE EMBALAJE"
+    },
+    {
+      "id": "producto_336",
+      "nombre": "48 mm / 50 Mts. FRAGIL",
+      "tipo_venta": "36 Unidades",
+      "precio": 1482.0,
+      "categoria": "CINTAS DE EMBALAJE",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje_corrected.jpg",
+      "descripcion": "Producto de la categoría CINTAS DE EMBALAJE"
+    },
+    {
+      "id": "producto_337",
+      "nombre": "12 mm/ 40 Mts.",
+      "tipo_venta": "36 Unidades",
+      "precio": 1420.0,
+      "categoria": "CINTAS DE PAPEL",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje_corrected.jpg",
+      "descripcion": "Producto de la categoría CINTAS DE PAPEL"
+    },
+    {
+      "id": "producto_338",
+      "nombre": "18 mm/ 40 Mts.",
+      "tipo_venta": "36 Unidades",
+      "precio": 1943.0,
+      "categoria": "CINTAS DE PAPEL",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje_corrected.jpg",
+      "descripcion": "Producto de la categoría CINTAS DE PAPEL"
+    },
+    {
+      "id": "producto_339",
+      "nombre": "24 mm / 40 Mts.",
+      "tipo_venta": "36 Unidades",
+      "precio": 2541.0,
+      "categoria": "CINTAS DE PAPEL",
+      "medida": "",
+      "imagen": "/images/cintas_embalaje_corrected.jpg",
+      "descripcion": "Producto de la categoría CINTAS DE PAPEL"
+    },
+    {
+      "id": "producto_340",
+      "nombre": "Servilletas Bar 15x15",
+      "tipo_venta": "Cod. 10.000",
+      "precio": 10764.0,
+      "categoria": "SERVILLETAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría SERVILLETAS"
+    },
+    {
+      "id": "producto_341",
+      "nombre": "Servilletas 18x18",
+      "tipo_venta": "2000 Unidades",
+      "precio": 4559.0,
+      "categoria": "SERVILLETAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría SERVILLETAS"
+    },
+    {
+      "id": "producto_342",
+      "nombre": "Servilletas 24x24",
+      "tipo_venta": "2000 unidades",
+      "precio": 6877.0,
+      "categoria": "SERVILLETAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría SERVILLETAS"
+    },
+    {
+      "id": "producto_343",
+      "nombre": "Servilletas 33x33",
+      "tipo_venta": "600 Unidades",
+      "precio": 6727.0,
+      "categoria": "SERVILLETAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría SERVILLETAS"
+    },
+    {
+      "id": "producto_344",
+      "nombre": "Servilletas 33x33 ELEGANTE X1000",
+      "tipo_venta": "1000 unidades",
+      "precio": 13058.0,
+      "categoria": "SERVILLETAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría SERVILLETAS"
+    },
+    {
+      "id": "producto_345",
+      "nombre": "Servilletas 33x33 BEIGE",
+      "tipo_venta": "600 Unidades",
+      "precio": 4819.0,
+      "categoria": "SERVILLETAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría SERVILLETAS"
+    },
+    {
+      "id": "producto_346",
+      "nombre": "Serv. 33x33 paquete 80 unid. ELEG.",
+      "tipo_venta": "30 Paquetes de 80 unid",
+      "precio": 1227.0,
+      "categoria": "SERVILLETAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría SERVILLETAS"
+    },
+    {
+      "id": "producto_347",
+      "nombre": "Individuales",
+      "tipo_venta": "180 x paquete",
+      "precio": 3199.0,
+      "categoria": "SERVILLETAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría SERVILLETAS"
+    },
+    {
+      "id": "producto_348",
+      "nombre": "DICHA 3 X 40 PAÑOS",
+      "tipo_venta": "3 rollo por Paq - Bulto x 12 Paq.",
+      "precio": 1218.0,
+      "categoria": "ROLLOS DE COCINA",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría ROLLOS DE COCINA"
+    },
+    {
+      "id": "producto_349",
+      "nombre": "ELEGANTE 3 X 120 PAÑOS",
+      "tipo_venta": "3 rollo por Paq - Bulto x 4 Paq.",
+      "precio": 3148.0,
+      "categoria": "ROLLOS DE COCINA",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría ROLLOS DE COCINA"
+    },
+    {
+      "id": "producto_350",
+      "nombre": "ELEGANTE X 200 PAÑOS.",
+      "tipo_venta": "1 Rollo por paquete- bulto por 6 unid.",
+      "precio": 1973.0,
+      "categoria": "ROLLOS DE COCINA",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría ROLLOS DE COCINA"
+    },
+    {
+      "id": "producto_351",
+      "nombre": "SOLEADO X 200 PAÑOS 8 ROLLOS",
+      "tipo_venta": "8 Rollos",
+      "precio": 1352.0,
+      "categoria": "ROLLOS DE COCINA",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría ROLLOS DE COCINA"
+    },
+    {
+      "id": "producto_352",
+      "nombre": "Rollo de cocina 8 x 300 Paños",
+      "tipo_venta": "8 Rollos",
+      "precio": 11501.0,
+      "categoria": "ROLLOS DE COCINA",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría ROLLOS DE COCINA"
+    },
+    {
+      "id": "producto_353",
+      "nombre": "20X400 BEIGE",
+      "tipo_venta": "2 Rollos",
+      "precio": 13903.0,
+      "categoria": "BOBINAS DE PAPEL INDUSTRIALES",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE PAPEL INDUSTRIALES"
+    },
+    {
+      "id": "producto_354",
+      "nombre": "20X400 BLANCO",
+      "tipo_venta": "2 Rollos",
+      "precio": 12408.0,
+      "categoria": "BOBINAS DE PAPEL INDUSTRIALES",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE PAPEL INDUSTRIALES"
+    },
+    {
+      "id": "producto_355",
+      "nombre": "25 X  400 MTS ELEGANTE",
+      "tipo_venta": "2 Rollos",
+      "precio": 37225.0,
+      "categoria": "BOBINAS DE PAPEL INDUSTRIALES",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE PAPEL INDUSTRIALES"
+    },
+    {
+      "id": "producto_356",
+      "nombre": "20 X  400 MTS ELEGANTE",
+      "tipo_venta": "2 Rollos",
+      "precio": 29900.0,
+      "categoria": "BOBINAS DE PAPEL INDUSTRIALES",
+      "medida": "",
+      "imagen": "/images/bobinas_papel_new.jpg",
+      "descripcion": "Producto de la categoría BOBINAS DE PAPEL INDUSTRIALES"
+    },
+    {
+      "id": "producto_357",
+      "nombre": "Toallas intercaladas Beige",
+      "tipo_venta": "x caja   2500 toallas",
+      "precio": 8022.0,
+      "categoria": "TOALLAS INTERCALADAS Y ROLLOS TOALLAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría TOALLAS INTERCALADAS Y ROLLOS TOALLAS"
+    },
+    {
+      "id": "producto_358",
+      "nombre": "Toallas intercaladas Blancas",
+      "tipo_venta": "x caja   2500 toallas",
+      "precio": 8241.0,
+      "categoria": "TOALLAS INTERCALADAS Y ROLLOS TOALLAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría TOALLAS INTERCALADAS Y ROLLOS TOALLAS"
+    },
+    {
+      "id": "producto_359",
+      "nombre": "Toallas intercaladas ELEGANTE",
+      "tipo_venta": "x caja   2500 toallas",
+      "precio": 24667.0,
+      "categoria": "TOALLAS INTERCALADAS Y ROLLOS TOALLAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría TOALLAS INTERCALADAS Y ROLLOS TOALLAS"
+    },
+    {
+      "id": "producto_360",
+      "nombre": "Toallas intercaladas NEWPEL BLANCA",
+      "tipo_venta": "x caja   2500 toallas",
+      "precio": 9949.0,
+      "categoria": "TOALLAS INTERCALADAS Y ROLLOS TOALLAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría TOALLAS INTERCALADAS Y ROLLOS TOALLAS"
+    },
+    {
+      "id": "producto_361",
+      "nombre": "Rollo toallas blancas x 200 mts",
+      "tipo_venta": "4 rollos",
+      "precio": 7475.0,
+      "categoria": "TOALLAS INTERCALADAS Y ROLLOS TOALLAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría TOALLAS INTERCALADAS Y ROLLOS TOALLAS"
+    },
+    {
+      "id": "producto_362",
+      "nombre": "Rollo toalla ELEGANTE x 200 mts.",
+      "tipo_venta": "4 rollos",
+      "precio": 23920.0,
+      "categoria": "TOALLAS INTERCALADAS Y ROLLOS TOALLAS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría TOALLAS INTERCALADAS Y ROLLOS TOALLAS"
+    },
+    {
+      "id": "producto_363",
+      "nombre": "ROLLO X 60 MTS. BLANCO",
+      "tipo_venta": "12 Rollos",
+      "precio": 4508.0,
+      "categoria": "PAPELES HIGIENICOS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS"
+    },
+    {
+      "id": "producto_364",
+      "nombre": "ROLLO X 80 MTS. BLANCO",
+      "tipo_venta": "12 Rollos",
+      "precio": 8372.0,
+      "categoria": "PAPELES HIGIENICOS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS"
+    },
+    {
+      "id": "producto_365",
+      "nombre": "ROLLO X 80 MTS. BLANCO",
+      "tipo_venta": "24 Rollos",
+      "precio": 11511.0,
+      "categoria": "PAPELES HIGIENICOS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS"
+    },
+    {
+      "id": "producto_366",
+      "nombre": "ROLLO x 300 mts.",
+      "tipo_venta": "8 Rollos",
+      "precio": 5830.0,
+      "categoria": "PAPELES HIGIENICOS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS"
+    },
+    {
+      "id": "producto_367",
+      "nombre": "ROLLO x 300 mts. BCO.PREMIUM",
+      "tipo_venta": "8 Rollos",
+      "precio": 11810.0,
+      "categoria": "PAPELES HIGIENICOS",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS"
+    },
+    {
+      "id": "producto_368",
+      "nombre": "ROLLO X 30 mts. 4 UNID.",
+      "tipo_venta": "12 PAQUETES DE 4 ROLLOS",
+      "precio": 1420.0,
+      "categoria": "PAPELES HIGIENICOS ELEGANTE",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS ELEGANTE"
+    },
+    {
+      "id": "producto_369",
+      "nombre": "ROLLO X 30 MTS. 24 UNID. ALOE VERA",
+      "tipo_venta": "1 PAQUETES DE 24 ROLLOS",
+      "precio": 9007.0,
+      "categoria": "PAPELES HIGIENICOS ELEGANTE",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS ELEGANTE"
+    },
+    {
+      "id": "producto_370",
+      "nombre": "ROLLO X 50 MTS. 24 UNID.",
+      "tipo_venta": "1 PAQUETES DE 24 ROLLOS",
+      "precio": 13887.0,
+      "categoria": "PAPELES HIGIENICOS ELEGANTE",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS ELEGANTE"
+    },
+    {
+      "id": "producto_371",
+      "nombre": "ROLLO X 80 MTS. 4 UNID.",
+      "tipo_venta": "10 PAQUETES DE 4 ROLLOS",
+      "precio": 3588.0,
+      "categoria": "PAPELES HIGIENICOS ELEGANTE",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS ELEGANTE"
+    },
+    {
+      "id": "producto_372",
+      "nombre": "ROLLO X 30 mts. 4 UNID. D/HOJA",
+      "tipo_venta": "10 PAQUETES DE 4 ROLLOS",
+      "precio": 2442.0,
+      "categoria": "PAPELES HIGIENICOS ELEGANTE",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS ELEGANTE"
+    },
+    {
+      "id": "producto_373",
+      "nombre": "ROLLO x 300 mts. 8 UNID.",
+      "tipo_venta": "8 Rollos",
+      "precio": 24966.0,
+      "categoria": "PAPELES HIGIENICOS ELEGANTE",
+      "medida": "",
+      "imagen": "/images/servilletas.jpg",
+      "descripcion": "Producto de la categoría PAPELES HIGIENICOS ELEGANTE"
+    },
+    {
+      "id": "producto_374",
+      "nombre": "Sorbetes Enfundados",
+      "tipo_venta": "750 UNIDADES",
+      "precio": 4821.0,
+      "categoria": "SORBETES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría SORBETES"
+    },
+    {
+      "id": "producto_375",
+      "nombre": "Sorbetes x1000 enfundados",
+      "tipo_venta": "1000 Unidades",
+      "precio": 5038.0,
+      "categoria": "SORBETES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría SORBETES"
+    },
+    {
+      "id": "producto_376",
+      "nombre": "Sorbetes NEGROS XL",
+      "tipo_venta": "1000 Unidades",
+      "precio": 5195.0,
+      "categoria": "SORBETES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría SORBETES"
+    },
+    {
+      "id": "producto_377",
+      "nombre": "SORBETES XXL COLOR",
+      "tipo_venta": "100 Unidades",
+      "precio": 740.0,
+      "categoria": "SORBETES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría SORBETES"
+    },
+    {
+      "id": "producto_378",
+      "nombre": "SORBETES POLIPAPEL CON DISEÑO",
+      "tipo_venta": "25 Unidades",
+      "precio": 687.0,
+      "categoria": "SORBETES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría SORBETES"
+    },
+    {
+      "id": "producto_379",
+      "nombre": "POLIPAPEL NEGRO O BLANCO",
+      "tipo_venta": "200 Unidades",
+      "precio": 5935.0,
+      "categoria": "SORBETES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría SORBETES"
+    },
+    {
+      "id": "producto_380",
+      "nombre": "Guantes de polietileno",
+      "tipo_venta": "100",
+      "precio": 657.0,
+      "categoria": "GUANTES DESCARTABLES",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría GUANTES DESCARTABLES"
+    },
+    {
+      "id": "producto_381",
+      "nombre": "Guantes de látex",
+      "tipo_venta": "100",
+      "precio": 4634.0,
+      "categoria": "GUANTES DESCARTABLES",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría GUANTES DESCARTABLES"
+    },
+    {
+      "id": "producto_382",
+      "nombre": "Guantes de nitrilo",
+      "tipo_venta": "100",
+      "precio": 4694.0,
+      "categoria": "GUANTES DESCARTABLES",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría GUANTES DESCARTABLES"
+    },
+    {
+      "id": "producto_383",
+      "nombre": "Guantes de nitrilo negro",
+      "tipo_venta": "100",
+      "precio": 4769.0,
+      "categoria": "GUANTES DESCARTABLES",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría GUANTES DESCARTABLES"
+    },
+    {
+      "id": "producto_384",
+      "nombre": "Escarbadientes X 500 ensobrados",
+      "tipo_venta": "25 UNIDADES",
+      "precio": 2466.0,
+      "categoria": "ESCARBADIENTES Y BROCHETTES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría ESCARBADIENTES Y BROCHETTES"
+    },
+    {
+      "id": "producto_385",
+      "nombre": "Escarbadientes x 5000 a granel",
+      "tipo_venta": "25 UNIDADES",
+      "precio": 14293.0,
+      "categoria": "ESCARBADIENTES Y BROCHETTES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría ESCARBADIENTES Y BROCHETTES"
+    },
+    {
+      "id": "producto_386",
+      "nombre": "BROCHETTES X 25 CMS. 80 UNID.",
+      "tipo_venta": "100 UNIDADES",
+      "precio": 747.0,
+      "categoria": "ESCARBADIENTES Y BROCHETTES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría ESCARBADIENTES Y BROCHETTES"
+    },
+    {
+      "id": "producto_387",
+      "nombre": "BROCHETTES X 15 CMS. 80 UNID.",
+      "tipo_venta": "100 UNIDADES",
+      "precio": 627.0,
+      "categoria": "ESCARBADIENTES Y BROCHETTES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría ESCARBADIENTES Y BROCHETTES"
+    },
+    {
+      "id": "producto_388",
+      "nombre": "PALITOS PARA SUSHI",
+      "tipo_venta": "50 UNIDADES",
+      "precio": 94.0,
+      "categoria": "ESCARBADIENTES Y BROCHETTES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría ESCARBADIENTES Y BROCHETTES"
+    },
+    {
+      "id": "producto_389",
+      "nombre": "PALITOS PARA HELADO",
+      "tipo_venta": "50 UNIDADES",
+      "precio": 1173.0,
+      "categoria": "ESCARBADIENTES Y BROCHETTES",
+      "medida": "",
+      "imagen": "/images/sorbetes.jpg",
+      "descripcion": "Producto de la categoría ESCARBADIENTES Y BROCHETTES"
+    },
+    {
+      "id": "producto_390",
+      "nombre": "Recuperado sin mango",
+      "tipo_venta": "4 Rollos x 5 kilos c/u aprox.",
+      "precio": 1868.0,
+      "categoria": "STRETCH",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría STRETCH"
+    },
+    {
+      "id": "producto_391",
+      "nombre": "Virgen s/ mango 10 CM",
+      "tipo_venta": "POR UNIDAD",
+      "precio": 2107.0,
+      "categoria": "STRETCH",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría STRETCH"
+    },
+    {
+      "id": "producto_392",
+      "nombre": "Virgen con mango 50CM",
+      "tipo_venta": "",
+      "precio": 3543.0,
+      "categoria": "STRETCH",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría STRETCH"
+    },
+    {
+      "id": "producto_393",
+      "nombre": "Virgen  NEGRO con mango 50 CM",
+      "tipo_venta": "9 Rollos de 3 Kilos aprox.",
+      "precio": 3752.0,
+      "categoria": "STRETCH",
+      "medida": "",
+      "imagen": "/images/film_adherente.jpg",
+      "descripcion": "Producto de la categoría STRETCH"
+    },
+    {
+      "id": "producto_394",
+      "nombre": "APARATO AROMATIZADOR",
+      "tipo_venta": "1",
+      "precio": 12109.0,
+      "categoria": "PERFUMES AROMATIZANTES",
+      "medida": "",
+      "imagen": "/images/atomizadores_new.jpg",
+      "descripcion": "Producto de la categoría PERFUMES AROMATIZANTES"
+    },
+    {
+      "id": "producto_395",
+      "nombre": "REPUESTO LATA AROMATIZADOR",
+      "tipo_venta": "10",
+      "precio": 3946.0,
+      "categoria": "PERFUMES AROMATIZANTES",
+      "medida": "",
+      "imagen": "/images/atomizadores_new.jpg",
+      "descripcion": "Producto de la categoría PERFUMES AROMATIZANTES"
+    },
+    {
+      "id": "producto_396",
+      "nombre": "PERFUMINA TEXTIL",
+      "tipo_venta": "10",
+      "precio": 3610.0,
+      "categoria": "PERFUMES AROMATIZANTES",
+      "medida": "",
+      "imagen": "/images/atomizadores_new.jpg",
+      "descripcion": "Producto de la categoría PERFUMES AROMATIZANTES"
+    },
+    {
+      "id": "producto_397",
+      "nombre": "VARILLAS DIFUSORAS",
+      "tipo_venta": "10",
+      "precio": 5120.0,
+      "categoria": "PERFUMES AROMATIZANTES",
+      "medida": "",
+      "imagen": "/images/atomizadores_new.jpg",
+      "descripcion": "Producto de la categoría PERFUMES AROMATIZANTES"
+    },
+    {
+      "id": "producto_398",
+      "nombre": "30 ml",
+      "tipo_venta": "1",
+      "precio": 598.0,
+      "categoria": "ATOMIZADORES",
+      "medida": "",
+      "imagen": "/images/atomizadores_new.jpg",
+      "descripcion": "Producto de la categoría ATOMIZADORES"
+    },
+    {
+      "id": "producto_399",
+      "nombre": "250 ml",
+      "tipo_venta": "1",
+      "precio": 1270.0,
+      "categoria": "ATOMIZADORES",
+      "medida": "",
+      "imagen": "/images/atomizadores_new.jpg",
+      "descripcion": "Producto de la categoría ATOMIZADORES"
+    },
+    {
+      "id": "producto_400",
+      "nombre": "500 ml",
+      "tipo_venta": "1",
+      "precio": 1315.0,
+      "categoria": "ATOMIZADORES",
+      "medida": "",
+      "imagen": "/images/atomizadores_new.jpg",
+      "descripcion": "Producto de la categoría ATOMIZADORES"
+    },
+    {
+      "id": "producto_401",
+      "nombre": "1000 ml",
+      "tipo_venta": "1",
+      "precio": 1943.0,
+      "categoria": "ATOMIZADORES",
+      "medida": "",
+      "imagen": "/images/atomizadores_new.jpg",
+      "descripcion": "Producto de la categoría ATOMIZADORES"
+    },
+    {
+      "id": "producto_402",
+      "nombre": "Resmas A4",
+      "tipo_venta": "1",
+      "precio": 6293.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_403",
+      "nombre": "Resmas oficio",
+      "tipo_venta": "1",
+      "precio": 10465.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_404",
+      "nombre": "Barbijos",
+      "tipo_venta": "50",
+      "precio": 36.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_405",
+      "nombre": "Banditas elasticas",
+      "tipo_venta": "x 100 grs.",
+      "precio": 1435.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_406",
+      "nombre": "Bolsita para jugo",
+      "tipo_venta": "100 Unidades",
+      "precio": 1300.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_407",
+      "nombre": "Bolsa para horno",
+      "tipo_venta": "10 unidades",
+      "precio": 1345.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_408",
+      "nombre": "Fajas autoadhesivas",
+      "tipo_venta": "x unidad",
+      "precio": 747.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_409",
+      "nombre": "Carteles plasticos para señalizacion",
+      "tipo_venta": "x unidad",
+      "precio": 1046.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_410",
+      "nombre": "Cofias redondas plizadas",
+      "tipo_venta": "100 unidades",
+      "precio": 4784.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_411",
+      "nombre": "Moños",
+      "tipo_venta": "100 unidades",
+      "precio": 3214.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_412",
+      "nombre": "Números  0 - 100",
+      "tipo_venta": "x unidad",
+      "precio": 403.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_413",
+      "nombre": "Números  0 - 200",
+      "tipo_venta": "x unidad",
+      "precio": 807.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_414",
+      "nombre": "Numeros 0-1000",
+      "tipo_venta": "x unidad",
+      "precio": 4485.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_415",
+      "nombre": "Números rollo turno x 1000 unid.",
+      "tipo_venta": "x unidad",
+      "precio": 1719.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_416",
+      "nombre": "Lapiceras",
+      "tipo_venta": "x unidad",
+      "precio": 303.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_417",
+      "nombre": "Portacintas",
+      "tipo_venta": "x unidad",
+      "precio": 4634.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_418",
+      "nombre": "Precintos",
+      "tipo_venta": "x Bolsa de 1000",
+      "precio": 1794.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_419",
+      "nombre": "Racionador",
+      "tipo_venta": "x unidad",
+      "precio": 1109.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_420",
+      "nombre": "Talonario Duplicado chico",
+      "tipo_venta": "x unidad",
+      "precio": 926.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_421",
+      "nombre": "Talonario Duplicado grande",
+      "tipo_venta": "x unidad",
+      "precio": 1868.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_422",
+      "nombre": "Tacos de color  9x9",
+      "tipo_venta": "x unidad",
+      "precio": 1756.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_423",
+      "nombre": "Tacos blancos 9x9",
+      "tipo_venta": "x unidad",
+      "precio": 979.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_424",
+      "nombre": "Pluriball  ( 1 metro x 50 mts.)",
+      "tipo_venta": "x unidad",
+      "precio": 14501.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_425",
+      "nombre": "Bolsas de frizelina 38x40",
+      "tipo_venta": "x unidad",
+      "precio": 485.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_426",
+      "nombre": "PAÑUELOS",
+      "tipo_venta": "6 Paquetes de 12 pañuelos c/u",
+      "precio": 188.0,
+      "categoria": "VARIOS",
+      "medida": "",
+      "imagen": "/images/guantes_descartables.jpg",
+      "descripcion": "Producto de la categoría VARIOS"
+    },
+    {
+      "id": "producto_427",
+      "nombre": "Bolsa Ziploc 07×10",
+      "medida": "07×10",
+      "precio": 34,
+      "categoria": "BOLSAS ZIPLOC",
+      "imagen": "/images/bolsas_ziploc.jpg",
+      "descripcion": "Bolsa Zipper Hermética 07×10 - Pack ×500 = $17.000"
+    },
+    {
+      "id": "producto_428",
+      "nombre": "Bolsa Ziploc 09×13",
+      "medida": "09×13",
+      "precio": 46,
+      "categoria": "BOLSAS ZIPLOC",
+      "imagen": "/images/bolsas_ziploc.jpg",
+      "descripcion": "Bolsa Zipper Hermética 09×13 - Pack ×500 = $23.000"
+    },
+    {
+      "id": "producto_429",
+      "nombre": "Bolsa Ziploc 10×15",
+      "medida": "10×15",
+      "precio": 58,
+      "categoria": "BOLSAS ZIPLOC",
+      "imagen": "/images/bolsas_ziploc.jpg",
+      "descripcion": "Bolsa Zipper ×100 unidades 10×15 - Pack ×100 = $5.800"
+    },
+    {
+      "id": "producto_430",
+      "nombre": "Bolsa Ziploc 12×17",
+      "medida": "12×17",
+      "precio": 68,
+      "categoria": "BOLSAS ZIPLOC",
+      "imagen": "/images/bolsas_ziploc.jpg",
+      "descripcion": "Bolsa Zipper ×100 unidades 12×17 - Pack ×100 = $6.800"
+    },
+    {
+      "id": "producto_431",
+      "nombre": "Bolsa Ziploc 14×20",
+      "medida": "14×20",
+      "precio": 84,
+      "categoria": "BOLSAS ZIPLOC",
+      "imagen": "/images/bolsas_ziploc.jpg",
+      "descripcion": "Bolsa Zipper ×100 unidades 14×20 - Pack ×100 = $8.400"
+    },
+    {
+      "id": "producto_432",
+      "nombre": "Bolsa Ziploc 17×25",
+      "medida": "17×25",
+      "precio": 98,
+      "categoria": "BOLSAS ZIPLOC",
+      "imagen": "/images/bolsas_ziploc.jpg",
+      "descripcion": "Bolsa Zipper ×100 unidades 17×25 - Pack ×100 = $9.800"
+    },
+    {
+      "id": "producto_433",
+      "nombre": "Bolsa Ziploc 20×30",
+      "medida": "20×30",
+      "precio": 132,
+      "categoria": "BOLSAS ZIPLOC",
+      "imagen": "/images/bolsas_ziploc.jpg",
+      "descripcion": "Bolsa Zipper ×100 unidades 20×30 - Pack ×100 = $13.200"
+    },
+    {
+      "id": "producto_434",
+      "nombre": "Bolsa Ziploc 25×35",
+      "medida": "25×35",
+      "precio": 224,
+      "categoria": "BOLSAS ZIPLOC",
+      "imagen": "/images/bolsas_ziploc.jpg",
+      "descripcion": "Bolsa Zipper ×100 unidades 25×35 - Pack ×100 = $22.400"
+    },
+    {
+      "id": "producto_435",
+      "nombre": "Bolsa Ziploc 30×40",
+      "medida": "30×40",
+      "precio": 265,
+      "categoria": "BOLSAS ZIPLOC",
+      "imagen": "/images/bolsas_ziploc.jpg",
+      "descripcion": "Bolsa Zipper ×100 unidades 30×40 - Pack ×100 = $26.500"
+    },
+    {
+      "id": "producto_436",
+      "nombre": "Bolsa Metalizada 10×17",
+      "medida": "10×17",
+      "precio": 190,
+      "categoria": "BOLSAS METALIZADAS",
+      "imagen": "/images/bolsas_metalizadas.jpg",
+      "descripcion": "Bolsa Metalizada ×100 unidades 10×17 - Pack ×100 = $19.000"
+    },
+    {
+      "id": "producto_437",
+      "nombre": "Bolsa Metalizada 12×20",
+      "medida": "12×20",
+      "precio": 250,
+      "categoria": "BOLSAS METALIZADAS",
+      "imagen": "/images/bolsas_metalizadas.jpg",
+      "descripcion": "Bolsa Metalizada ×100 unidades 12×20 - Pack ×100 = $25.000"
+    },
+    {
+      "id": "producto_438",
+      "nombre": "Bolsa Metalizada 15×25",
+      "medida": "15×25",
+      "precio": 290,
+      "categoria": "BOLSAS METALIZADAS",
+      "imagen": "/images/bolsas_metalizadas.jpg",
+      "descripcion": "Bolsa Metalizada ×100 unidades 15×25 - Pack ×100 = $29.000"
+    },
+    {
+      "id": "producto_439",
+      "nombre": "Bolsa Marrón 11×15",
+      "medida": "11×15",
+      "precio": 190,
+      "categoria": "BOLSAS MARRONES",
+      "imagen": "/images/bolsas_marrones.jpg",
+      "descripcion": "Bolsa Marrón ×100 unidades 11×15 - Pack ×100 = $19.000"
+    },
+    {
+      "id": "producto_440",
+      "nombre": "Bolsa Marrón 15×20",
+      "medida": "15×20",
+      "precio": 249,
+      "categoria": "BOLSAS MARRONES",
+      "imagen": "/images/bolsas_marrones.jpg",
+      "descripcion": "Bolsa Marrón ×100 unidades 15×20 - Pack ×100 = $24.900"
+    },
+    {
+      "id": "producto_441",
+      "nombre": "Bolsa Marrón 20×28",
+      "medida": "20×28",
+      "precio": 280,
+      "categoria": "BOLSAS MARRONES",
+      "imagen": "/images/bolsas_marrones.jpg",
+      "descripcion": "Bolsa Marrón ×100 unidades 20×28 - Pack ×100 = $28.000"
+    },
+    {
+      "id": "producto_442",
+      "nombre": "Doypack Metalizado",
+      "medida": "Estándar",
+      "precio": 150,
+      "categoria": "DOYPACK",
+      "imagen": "/images/doypack.jpg",
+      "descripcion": "Doypack Metalizado - Empaque premium para productos"
+    },
+    {
+      "id": "producto_443",
+      "nombre": "Doypack Transparente",
+      "medida": "Estándar",
+      "precio": 120,
+      "categoria": "DOYPACK",
+      "imagen": "/images/doypack.jpg",
+      "descripcion": "Doypack Transparente - Empaque versátil"
+    },
+    {
+      "id": "producto_444",
+      "nombre": "Doypack Papel Madera",
+      "medida": "Estándar",
+      "precio": 130,
+      "categoria": "DOYPACK",
+      "imagen": "/images/doypack.jpg",
+      "descripcion": "Doypack Papel Madera - Empaque ecológico"
+    }
+  ]
+}
